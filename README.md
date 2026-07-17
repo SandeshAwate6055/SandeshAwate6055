@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Sandesh Awate</h1>
 
-<h3 align="center">AI & Data Science Engineer | Building LLM-powered systems that ship</h3>
+<h3 align="center">AI & ML Engineer | Building LLM-powered systems that ship</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sandesh-awate-206478291/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
