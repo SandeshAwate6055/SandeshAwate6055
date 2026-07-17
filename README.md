@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sandesh-awate-206478291/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/SandeshAwate6055"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://x.com/Sandesh59830"><img src="https://img.shields.io/badge/X-181717?style=for-the-badge&logo=X&logoColor=black"/></a>
   <a href="https://leetcode.com/u/Sandeshawate6055/?utm=codolio"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://codolio.com/profile/sandeshawate6055"><img src="https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge"/></a>
   <a href="https://huggingface.co/sandeshawate6055"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
