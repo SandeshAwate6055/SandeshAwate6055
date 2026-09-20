@@ -15,7 +15,7 @@
 
 ### About Me
 
-B.Tech in Artificial Intelligence & Data Science at Vishwakarma Institute of Information Technology, Pune (CGPA: 8.55, Class of 2027). Passionate about building production-grade AI systems using LLMs, RAG, multi-agent workflows, and scalable backend architectures. I enjoy solving real-world engineering challenges by designing efficient AI pipelines rather than just training models. Highly motivated to learn, adapt, and grow.
+B.Tech in Artificial Intelligence & Data Science at Vishwakarma Institute of Information Technology, Pune (CGPA: 8.55, Class of 2027). Passionate about building production-grade AI systems using LLMs, RAG, multimodal retrieval, and scalable backend architectures. I enjoy solving real-world engineering challenges by designing high-efficiency AI pipelines and optimizing hardware throughput rather than just training models. Highly motivated to learn, adapt, and grow.
 
 ---
 
@@ -31,49 +31,55 @@ B.Tech in Artificial Intelligence & Data Science at Vishwakarma Institute of Inf
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-**Generative AI & LLMs**
+**Generative AI & Multimodal Systems**
 <p align="left">
   <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Multimodal%20AI-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LoRA%20%2F%20PEFT-FF4088?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CLIP%20(Vision--Language)-7928CA?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Agentic%20Workflows-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Prompt%20Engineering-4B8BBE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-FF4088?style=for-the-badge"/>
 </p>
 
-**LLM Systems**
+**Information Retrieval & LLM Systems**
 <p align="left">
+  <img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dense%20Retrieval%20(BGE)-008080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Two--Stage%20Retrieval-5C6BC0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Model%20Serving-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VRAM%20Optimization-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/KV--Cache%20Optimization-5C6BC0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LLM%20Fine--Tuning-FF9800?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge"/>
+</p>
+
+**AI/ML Libraries**
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
 **Frameworks & Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Microservices-0078D4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-**AI/ML Libraries**
-<p align="left">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
 **DevOps & Cloud**
@@ -100,6 +106,9 @@ B.Tech in Artificial Intelligence & Data Science at Vishwakarma Institute of Inf
 
 ### Featured Projects
 
+**[Intelligent Multimodal E-Commerce Search Engine](https://github.com/SandeshAwate6055/E-Commerce-Search-Engine-Optimization-)** — `Python · PyTorch · LoRA (Qwen2.5) · BGE-Large · CLIP (ViT-B/32) · FAISS · FastAPI · React`
+Production-grade Two-Stage Multimodal Search Engine combining Dense Semantic Recall (`BAAI/bge-large-en-v1.5` + FAISS) with In-Memory Cross-Modal Visual Reranking (`CLIP ViT-B/32`). Fine-tuned `Qwen2.5-0.5B` using LoRA ($r=8, \alpha=16$) on 8,500+ triplets (val loss 3.13 → 0.62) for real-time structured entity extraction. Optimized to run 100% on a consumer 4 GB GPU (2.75 GB VRAM footprint with zero CPU spill), slashing latency from ~35s to ~1.1s (97% reduction) and cutting reranking latency from 1,500ms to <5ms (>300× speedup).
+
 **[Concise.AI](https://github.com/SandeshAwate6055)** — `Python · FastAPI · Celery · Redis · PostgreSQL · faster-whisper · OpenAI · FFmpeg`
 End-to-end AI pipeline that turns long-form YouTube videos into short-form Reels/Shorts content. Transcribes with word-level timestamps, uses OpenAI structured outputs to pick the most information-dense clip, and runs a 7-stage async pipeline (download, transcribe, clip selection, vertical render, caption burn-in) orchestrated with Celery + Redis.
 
@@ -122,6 +131,7 @@ Real-time AI presentation coach analyzing verbal and non-verbal delivery cues wi
 <p align="center">
   <a href="https://www.linkedin.com/in/sandesh-awate-206478291/">LinkedIn</a> ·
   <a href="https://github.com/SandeshAwate6055">GitHub</a> ·
+  <a href="https://x.com/Sandesh59830">X (Twitter)</a> ·
   <a href="https://leetcode.com/u/Sandeshawate6055/?utm=codolio">LeetCode</a> ·
   <a href="https://codolio.com/profile/sandeshawate6055">Codolio</a> ·
   <a href="https://huggingface.co/sandeshawate6055">Hugging Face</a> ·
