@@ -15,7 +15,7 @@
 
 ### About Me
 
-B.Tech in Artificial Intelligence & Data Science at Vishwakarma Institute of Information Technology, Pune (CGPA: 8.55, Class of 2027). Passionate about building production-grade AI systems using LLMs, RAG, multimodal retrieval, and scalable backend architectures. I enjoy solving real-world engineering challenges by designing high-efficiency AI pipelines and optimizing hardware throughput rather than just training models. Highly motivated to learn, adapt, and grow.
+B.Tech in Artificial Intelligence & Data Science at Vishwakarma Institute of Information Technology, Pune (CGPA: 8.55, Class of 2027). Passionate about building production-grade AI systems using LLMs, RAG, multimodal retrieval, and scalable backend architectures. I enjoy solving real-world engineering challenges by designing high-efficiency AI pipelines and optimizing hardware throughput rather than just training models.
 
 ---
 
@@ -25,81 +25,33 @@ B.Tech in Artificial Intelligence & Data Science at Vishwakarma Institute of Inf
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-**Generative AI & Multimodal Systems**
-<p align="left">
-  <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Multimodal%20AI-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LoRA%20%2F%20PEFT-FF4088?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CLIP%20(Vision--Language)-7928CA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Agentic%20Workflows-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-4B8BBE?style=for-the-badge"/>
-</p>
-
-**Information Retrieval & LLM Systems**
-<p align="left">
-  <img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Dense%20Retrieval%20(BGE)-008080?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Two--Stage%20Retrieval-5C6BC0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Model%20Serving-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VRAM%20Optimization-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/KV--Cache%20Optimization-5C6BC0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLM%20Fine--Tuning-FF9800?style=for-the-badge"/>
-</p>
-
-**AI/ML Libraries**
+**AI, LLMs & Retrieval**
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LoRA%20%2F%20PEFT-FF4088?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG%20%26%20Hybrid%20Search-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain%20%2F%20LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CLIP%20%26%20BGE-7928CA?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-**Frameworks & Tools**
+**Backend, Data & Infra**
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-**DevOps & Cloud**
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-**CS Fundamentals**
-<p align="left">
-  <img src="https://img.shields.io/badge/OOPs-6A1B9A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DBMS-1976D2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00897B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System%20Design-455A64?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Operating%20Systems-5D4037?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Networks-546E7A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
