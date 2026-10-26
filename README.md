@@ -7,7 +7,7 @@
   <a href="https://x.com/Sandesh59830"><img src="https://img.shields.io/badge/X-181717?style=for-the-badge&logo=X&logoColor=black"/></a>
   <a href="https://leetcode.com/u/Sandeshawate6055/?utm=codolio"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://codolio.com/profile/sandeshawate6055"><img src="https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge"/></a>
-  <a href="https://huggingface.co/sandeshawate6055"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+  <a href="https://medium.com/@sandeshawateofficel1"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="mailto:sandeshawate106@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
